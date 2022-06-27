@@ -28,7 +28,6 @@
 {"key":"csp_n0ys","name":"💥1090影视(SP)","type":3,"api":"csp_N0ys","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"spider_IKan","name":"💖爱看(SP)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
 {"key": "csp_Mjxq"    ,"name":"🐞美剧星球","type": 3,"api": "csp_Mjxq","searchable": 1,"quickSearch": 1,"filterable": 1},
-{ "key": "___xmf哔",  "name": "哔嘀","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"clan://localhost/TVBox/bidi.json"},
 {"key":"push_agent"      ,"name":"🛴推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
 //
 {"key":"csp_xpath_huya","name":"🐯虎牙(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/liu673cn/mao/main/sub/xpath/虎牙.json"},
