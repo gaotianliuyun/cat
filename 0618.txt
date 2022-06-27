@@ -1,5 +1,5 @@
 {
-"spider": "https://liu673cn.coding.net/p/x/d/TVbox/git/raw/main/jar/custom_spider.jar",
+"spider": "https://gaotianliuyun.github.io/cat/custom_spider.jar",
 
 "sites": [
 {"key": "csp_77"         ,"name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
