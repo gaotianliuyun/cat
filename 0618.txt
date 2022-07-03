@@ -1,6 +1,6 @@
 {
 "spider": "https://gaotianliuyun.github.io/cat/0701apple.jar",
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9mbHlpbmctZ3V5cy5jb2RpbmcubmV0L3AvbWFvL2QvamFyL2dpdC9yYXcvbWFzdGVyL2xpdmUvbXl0di50eHQ="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vY2h1cWl1eXUvY2h1cWl1eXUvcmF3L2JyYW5jaC9tYXN0ZXIvaXB0di50eHQ="]}]}],
 
 "sites": [
 {"key":"csp_77"            ,"name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
